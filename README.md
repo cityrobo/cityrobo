@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cityrobo
-- 👀 I’m interested in making mods gor Hotdogs, Horseshoes and Handgrenades 
+- 👀 I’m interested in making mods for Hotdogs, Horseshoes and Handgrenades 
 - 🌱 I’m currently learning how to make scripts and custom weapons
 - 💞️ I’m looking to collaborate on making mods
 - 📫 How to reach me: github, Discord Cityrobo#0749
